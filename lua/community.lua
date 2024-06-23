@@ -24,10 +24,16 @@ return {
   { import = "astrocommunity.motion.nvim-surround" },
   --inlayhints
   { import = "astrocommunity.lsp.lsp-inlayhints-nvim" },
+  { import = "astrocommunity.recipes.astrolsp-no-insert-inlay-hints" },
   --indent
   { import = "astrocommunity.indent.indent-rainbowline" },
   --icon
   { import = "astrocommunity.recipes.vscode-icons" },
   --bars and lines
   { import = "astrocommunity.bars-and-lines.feline-nvim" },
+  --colorscheme
+  { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.colorscheme.monokai-pro-nvim" },
+  { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
+  { import = "astrocommunity.colorscheme.dracula-nvim" },
 }
